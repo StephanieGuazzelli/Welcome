@@ -8,5 +8,7 @@ Welcome to my profile!
 - Project coordination
 - Area feasibilities
 - Project development
+
+![My photo](stephanie)
 ---------------------------------------------------------------------------------------------------------------------------------
 Please contact me via **slguazzelli@outlook.com**
