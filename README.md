@@ -9,6 +9,6 @@ Welcome to my profile!
 - Area feasibilities
 - Project development
 
-![My photo](stephanie)
+![My photo](/WeChat Image_20191215152644.jpg)
 ---------------------------------------------------------------------------------------------------------------------------------
 Please contact me via **slguazzelli@outlook.com**
